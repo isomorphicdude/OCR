@@ -4,4 +4,4 @@ lightning_logs/
 tensorboard_logs/
 __pycache__/
 .vscode/
-
+utils.ipynb
