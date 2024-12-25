@@ -1,0 +1,28 @@
+name: my
+channels:
+  - defaults
+
+dependencies:
+  - python=3.9.20
+  - pip
+  - pip:
+      - hydra-core
+      - einops
+      - lmdb
+      - matplotlib
+      - ninja
+      - numpy
+      - omegaconf
+      - pillow
+      - pytorch-fid
+      - scikit-learn
+      - seaborn
+      - tensorboard
+      - torch
+      - torchdiffeq
+      - torchmetrics
+      - torchtyping
+      - torchvision
+      - timm
+      - tqdm
+      - wandb
